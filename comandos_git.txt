@@ -1,8 +1,8 @@
-git init . -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo -> adiciona arquivo para ser comitado
-git commit -m "msg" -> faz commite do que estava para ser comitado
-git log -> Mostra o histórico dos seus commits
+git init . 		-> cria um repo git na pasta atual
+git status 		-> mostra o status do trabalho (de cada arquivo)
+git add nome_arquivo 	-> adiciona arquivo para ser comitado
+git commit -m "msg" 	-> faz commite do que estava para ser comitado
+git log 		-> Mostra o histórico dos seus commits
 
 Fluxo de Trabalho
 1. criar diretório de trabalho;
@@ -10,5 +10,5 @@ Fluxo de Trabalho
 3. Edita ou cria arquivos;
 4. git status;
 5. git add <nome_arquivo>;
-6. git commit -m "mensagem";
+6. git commit -m "Mensagem Estranha";
 7. Volta para o passo três.
