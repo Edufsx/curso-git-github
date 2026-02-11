@@ -9,6 +9,8 @@ Confira tudo o que temos no nosso YouTube. É gratis! Segue o link: htpp:
 Além do nosso YouTube se liga no meu LinkeDin que vai 
 bombar!
 
+Espero que eu não quebre tudo dessa vez
+
 ## Fluxo de trabalho Git local
 
 01. git checkout -b <nova-branch>
