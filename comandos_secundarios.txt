@@ -3,3 +3,5 @@ Este arquivo contém informações adiconais
 Primeiro Comando
 Segundo Comando
 Terceiro Comando
+
+# Comandos estranhos
